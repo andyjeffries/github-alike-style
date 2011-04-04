@@ -1,0 +1,9 @@
+h1. Github-alike Style
+
+I"m a big fan of Github's styling and wanted to use something similar in my own internal projects. 
+
+I'm not using their CSS directly, I recreated it in Pixelmator and converted to CSS.
+
+It's similar, but not exactly the same.
+
+I'm using this for internal projects and don't advocate anyone using it for any purpose or reason (I just wanted somewhere to keep a copy). Launch a public site using this at your own risk (of being sued by github.com)!
